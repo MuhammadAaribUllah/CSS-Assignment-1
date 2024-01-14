@@ -1,0 +1,17 @@
+h1{
+    color:darkblue;
+    background-color:blue
+}
+p{
+    font-size: 20px;
+    color: blueviolet;
+    font-weight: 400;
+}
+h3{
+    color: orange;
+    background-color: yellow;
+}
+.h3{
+    color: black;
+    background-color: paleturquoise;
+}
